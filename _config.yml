@@ -1,16 +1,24 @@
+name: NotDivePeak
+layout_spectrum: 0.16050810762681067
 typography_spectrum: 0.1410524274688214
+opengraph:
+  type: ''
+  appId: ''
 color:
-  brandStrength: 0.21616316330619156
-  lightness: 0.3315898375585675
-  saturation: 0.6045384521130472
-  rhythmicContrast: 0.9107202552258968
   brandColors:
     - '#3C493F'
     - '#7E8D85'
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-layout_spectrum: 0.16050810762681067
-name: NotDivePeak
+  brandStrength: 0.21616316330619156
+  lightness: 0.3315898375585675
+  saturation: 0.6045384521130472
+  rhythmicContrast: 0.9107202552258968
 title: So not DivePeak
-description: Totally unofficial
+author:
+  name: Tim
+  url: divepeak.com
+  email: tim@divepeak.com
+content_rating:
+  adult: false

@@ -1,4 +1,3 @@
-layout_spectrum: 0.16050810762681067
 typography_spectrum: 0.1410524274688214
 color:
   brandStrength: 0.21616316330619156
@@ -6,9 +5,11 @@ color:
   saturation: 0.6045384521130472
   rhythmicContrast: 0.9107202552258968
   brandColors:
-    - '#2A5E47'
-    - '#FCFEFD'
-    - '#03080B'
-    - '#958BB0'
-    - '#A5B8C7'
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+layout_spectrum: 0.16050810762681067
 name: NotDivePeak
+title: So not DivePeak
